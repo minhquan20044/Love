@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/14/12/27/pink-1328819_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 99vh;
+}
+.Anh{
+    font-size: 50px;
+}
+   p{
+       position: absolute;
+       bottom: 0;
+       right: 50px;
+       font-size: 20px;
+   
+    }
